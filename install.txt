@@ -1,0 +1,4 @@
+Restaurar dicho proyecto en una nueva carpeta del hosting. Indicando acciones sobre archivos del proyecto y base de datos.
+
+Sería con git bash.
+Volvemos a hacer add conexion y los volvemos a subir.
